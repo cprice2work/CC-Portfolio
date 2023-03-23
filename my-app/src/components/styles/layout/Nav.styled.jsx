@@ -80,10 +80,10 @@ export const LineTwo = styled.div `
     //Fade
     /* opacity: ${({menuOpen}) => menuOpen ? 0 : 1}; */
 
-    transition: ${({ theme }) => theme.transition}, 1s cubic-bezier(0.07, -0.97, 0, 1.19);
+    transition: ${({ theme }) => theme.transition}, 1s cubic-bezier(1, 0.87, 0.46, 1.29);
 
     //UnderLine Picture
-    transform: ${({ menuOpen }) => menuOpen ? "translate(-102px, 141px) rotate(-180deg) scaleX(3)" : "translate(0) rotate(0) scaleX(1)"};
+    transform: ${({ menuOpen }) => menuOpen ? "translate(-102px, 100px) rotate(-180deg) scaleX(3)" : "translate(0) rotate(0) scaleX(1)"};
 
     width: 30px;
 

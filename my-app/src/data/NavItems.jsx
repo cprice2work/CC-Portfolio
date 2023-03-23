@@ -11,8 +11,8 @@ export const NavItems = [
         text: "Projects",
     },
     {
-        href: "#success",
-        text: "Success",
+        href: "#services",
+        text: "Services",
     },
     {
         href: "#contact",

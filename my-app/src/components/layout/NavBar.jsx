@@ -11,8 +11,6 @@ export const NavBar = () => {
 
     const scrollDirection = useScrollDirection("down");
 
-    console.log(scrollDirection)
-
 
     return(
         <>
@@ -36,7 +34,7 @@ export const NavBar = () => {
                     onClick={()=> setMenuOpen(false)}
                     >
                         {navItem.isProfile ? (
-                            <NavLink href = "#hero-section">
+                            <NavLink href="hero-section">
                                 <Profile>
                                     <img src="./images/profile.jpg" alt="Christian Price"/>
                                     <span>Christian Price</span>
