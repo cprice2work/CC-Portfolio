@@ -1,9 +1,11 @@
 # 🖥React Portfolio🖱
 
 This is a portfolio website that showcases some of my front-end development skills. 
-1. The website features an About section that explains who I am as a developer. 
-2. A Projects section to showcase some of my work. 
-3. A Contact section for potential clients to get in touch with me.
+1. The hero section of the site provides an introduction to who I am and what I do, while the about section gives visitors a more detailed look at my background and experience.
+2. The work section features examples of my past projects, while the skills section highlights my technical abilities and areas of expertise.
+3. Finally, the contact section provides visitors with a way to get in touch with me.
+4. The site is styled using Styled Components, a popular CSS-in-JS library that allows for more maintainable and reusable CSS. Additionally, the site includes animated favicons that add a touch of fun and interactivity.
+5. Explore the site and feel free to reach out with any questions or comments!
 
 ## 🔑Key Features
 
