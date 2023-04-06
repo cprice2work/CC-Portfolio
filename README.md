@@ -1,24 +1,24 @@
-# React Portfolio
+# 🖥React Portfolio🖱
 
 This is a portfolio website that showcases some of my front-end development skills. 
 1. The website features an About section that explains who I am as a developer. 
 2. A Projects section to showcase some of my work. 
 3. A Contact section for potential clients to get in touch with me.
 
-## Key Features
+## 🔑Key Features
 
 1. Dynamic rendering for any screen size
 2. Linear gradient applied to each header text, which scrolls
 3. Navigation bar turns into a hamburger menu for mobile devices
 4. Custom animation to the div
 
-## Technologies Used
+## 👨‍💻Technologies Used
 
 1. React
 2. Styled components
 3. Vercel
 
-## Installation and Setup Instructions
+## 🛠Installation and Setup Instructions
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using the command npm install.
